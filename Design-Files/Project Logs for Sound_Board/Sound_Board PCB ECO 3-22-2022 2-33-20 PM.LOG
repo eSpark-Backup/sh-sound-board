@@ -1,0 +1,6 @@
+Added Component: Designator=P1(TEST POINT)
+Added Component: Designator=P2(TEST POINT)
+Added Pin To Net: NetName=RING Pin=P1-1
+Added Pin To Net: NetName=TIP Pin=P2-1
+Added Member To Class: ClassName=Connector_Sheet Member=Component P1 Test Point
+Added Member To Class: ClassName=Connector_Sheet Member=Component P2 Test Point
