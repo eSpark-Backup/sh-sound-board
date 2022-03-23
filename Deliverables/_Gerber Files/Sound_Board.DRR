@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sound_Board.PcbDoc   3/23/2022  9:16:32 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sound_Board.TXT
+ASCII RectHoles File : Sound_Board-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Rectangle         5         PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             8         PTH        0.00inch (0.00mm)
+T4      40mil (1.02mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T5      69mil (1.75mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             5         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              30
+
+Total Processing Time (hh:mm:ss) : 00:00:00

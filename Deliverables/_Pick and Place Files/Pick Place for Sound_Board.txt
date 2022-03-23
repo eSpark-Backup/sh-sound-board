@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+D:\Github\SH-Sound-Board\Design-Files\Project Outputs for Sound_Board\Pick Place for Sound_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/03/22
+Time:       21:18
+Revision:   2a34cff656bf95cde2e7a840421cd7ef7f7eb0c4
+Variant:    No variations
+Units used: mil
+
+Designator Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+P2         TopLayer    TEST_POINT      5100,000mil   1950,000mil   0        5100,000mil 1950,000mil 5100,000mil 1950,000mil 
+P1         TopLayer    TEST_POINT      5100,000mil   1845,000mil   180      5100,000mil 1845,000mil 5100,000mil 1845,000mil 
+R1         TopLayer    4608X-102-221LF 5960,000mil   1720,000mil   360      5960,000mil 1720,000mil 5610,000mil 1720,000mil 
+J3         TopLayer    PJ-307C         6125,000mil   1319,213mil   90       6125,000mil 1319,213mil 6125,000mil 1270,000mil 
+J2         BottomLayer 0009483054      5689,094mil   2055,000mil   360      5377,283mil 2055,000mil 5377,283mil 2055,000mil 
+J1         TopLayer    M3960R-05P      5455,906mil   1520,000mil   180      5767,717mil 1520,000mil 5767,717mil 1520,000mil 
