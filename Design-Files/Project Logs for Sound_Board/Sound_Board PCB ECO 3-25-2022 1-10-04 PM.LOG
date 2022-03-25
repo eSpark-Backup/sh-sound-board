@@ -1,0 +1,13 @@
+Added Component: Designator=J3(PJ-307C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-Audio-span-Connectors_BOOMELE-Boom-Precision-Elec-PJ-307C_C16684.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "PJ-307C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L- Pin=J3-1
+Added Pin To Net: NetName=RING Pin=J3-2
+Added Pin To Net: NetName=RING Pin=J3-3
+Added Pin To Net: NetName=TIP Pin=J3-4
+Added Pin To Net: NetName=TIP Pin=J3-5
+Added Member To Class: ClassName=Connector_Sheet Member=Component J2 0009484058
+Added Member To Class: ClassName=Connector_Sheet Member=Component J3 PJ-307C
