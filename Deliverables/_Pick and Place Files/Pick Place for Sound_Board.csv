@@ -5,15 +5,15 @@ E:\SH-Sound-Board\Design-Files\Project Outputs for Sound_Board\Pick Place for So
 File Design Information:
 
 Date:       20/04/22
-Time:       11:57
-Revision:   e70b503700763c745d52e50808ad7c334cd6e580
+Time:       16:25
+Revision:   cea7d355905869211c6efb7c92b3352caa656c1d
 Variant:    No variations
 Units used: mil
 
 "Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
-"J1","TopLayer","428,189mil","194,984mil","180","740,000mil","194,984mil","740,000mil","194,984mil"
-"J3","TopLayer","1127,787mil","247,000mil","180","1127,787mil","247,000mil","1177,000mil","247,000mil"
-"J2","BottomLayer","680,000mil","965,000mil","0","680,000mil","965,000mil","368,189mil","965,000mil"
-"P2","TopLayer","46,000mil","837,000mil","0","46,000mil","837,000mil","46,000mil","837,000mil"
-"P1","TopLayer","46,000mil","732,000mil","180","46,000mil","732,000mil","46,000mil","732,000mil"
-"R1","TopLayer","955,000mil","655,000mil","0","955,000mil","655,000mil","605,000mil","655,000mil"
+"J1","TopLayer","397,189mil","252,000mil","180","709,000mil","252,000mil","709,000mil","252,000mil"
+"J3","TopLayer","1096,787mil","247,000mil","180","1096,787mil","247,000mil","1146,000mil","247,000mil"
+"J2","BottomLayer","398,000mil","939,000mil","0","398,000mil","939,000mil","86,189mil","939,000mil"
+"P2","TopLayer","47,000mil","639,000mil","0","47,000mil","639,000mil","47,000mil","639,000mil"
+"P1","TopLayer","47,000mil","534,000mil","180","47,000mil","534,000mil","47,000mil","534,000mil"
+"R1","TopLayer","924,000mil","655,000mil","0","924,000mil","655,000mil","574,000mil","655,000mil"

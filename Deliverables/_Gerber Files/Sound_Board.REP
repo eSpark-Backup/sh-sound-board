@@ -2,8 +2,34 @@
 FileName = Sound_Board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : Sound_Board.GPB
+Generating : Mechanical 2
+      File : Sound_Board.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Sound_Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Sound_Board.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -11,11 +37,75 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D24
-    D25
-    D26
-    D27
-    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Sound_Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Sound_Board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Sound_Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Sound_Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -37,38 +127,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Sound_Board.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Sound_Board.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Sound_Board.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : Sound_Board.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -76,30 +136,11 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Sound_Board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : Sound_Board.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D10
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
@@ -141,47 +182,6 @@ Used DCodes :
     D27
     D28
     D29
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Sound_Board.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Sound_Board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
 *************************************************************
 
 *************************************************************
