@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Sound_Board.PcbDoc   3/25/2022  7:49:43 PM
+NCDrill File Report For: Sound_Board.PcbDoc   4/20/2022  11:55:47 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,13 +8,13 @@ ASCII RectHoles File : Sound_Board-RectHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
-T2      32mil (0.8mm)                                             Rectangle         5         PTH        0.00inch (0.00mm)
-T3      39mil (1mm)                                               Round             8         PTH        0.00inch (0.00mm)
-T4      60mil (1.52mm)                                            Round             5         PTH        0.00inch (0.00mm)
-T5      69mil (1.75mm)                                            Round             5         PTH        0.00inch (0.00mm)
-T6      47mil (1.2mm)                                             Round             5         NPTH       0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             3         PTH        0.33inch (8.49mm)
+T2      32mil (0.8mm)                                             Rectangle         5         PTH        1.78inch (45.13mm)
+T3      39mil (1mm)                                               Round             8         PTH        0.70inch (17.78mm)
+T4      60mil (1.52mm)                                            Round             5         PTH        0.62inch (15.84mm)
+T5      69mil (1.75mm)                                            Round             5         PTH        0.62inch (15.84mm)
+T6      47mil (1.2mm)                                             Round             5         NPTH       0.87inch (22.07mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              30
+Totals                                                                              31
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,19 +1,19 @@
 Altium Designer Pick and Place Locations
-E:\Git\SH-Sound-Board\Design-Files\Project Outputs for Sound_Board\Pick Place for Sound_Board.csv
+E:\SH-Sound-Board\Design-Files\Project Outputs for Sound_Board\Pick Place for Sound_Board.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       25/03/22
-Time:       19:53
-Revision:   89bf5f1a9f3debae45448cb6e79d3651e05a0ef1
+Date:       20/04/22
+Time:       11:57
+Revision:   e70b503700763c745d52e50808ad7c334cd6e580
 Variant:    No variations
 Units used: mil
 
 "Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
-"J3","TopLayer","6125,000mil","1314,213mil","90","6125,000mil","1314,213mil","6125,000mil","1265,000mil"
-"J2","BottomLayer","5715,000mil","2115,000mil","360","5715,000mil","2115,000mil","5403,189mil","2115,000mil"
-"P2","TopLayer","5100,000mil","1950,000mil","0","5100,000mil","1950,000mil","5100,000mil","1950,000mil"
-"P1","TopLayer","5100,000mil","1845,000mil","180","5100,000mil","1845,000mil","5100,000mil","1845,000mil"
-"R1","TopLayer","5960,000mil","1720,000mil","0","5960,000mil","1720,000mil","5610,000mil","1720,000mil"
-"J1","TopLayer","5455,906mil","1520,000mil","180","5767,717mil","1520,000mil","5767,717mil","1520,000mil"
+"J1","TopLayer","428,189mil","194,984mil","180","740,000mil","194,984mil","740,000mil","194,984mil"
+"J3","TopLayer","1127,787mil","247,000mil","180","1127,787mil","247,000mil","1177,000mil","247,000mil"
+"J2","BottomLayer","680,000mil","965,000mil","0","680,000mil","965,000mil","368,189mil","965,000mil"
+"P2","TopLayer","46,000mil","837,000mil","0","46,000mil","837,000mil","46,000mil","837,000mil"
+"P1","TopLayer","46,000mil","732,000mil","180","46,000mil","732,000mil","46,000mil","732,000mil"
+"R1","TopLayer","955,000mil","655,000mil","0","955,000mil","655,000mil","605,000mil","655,000mil"

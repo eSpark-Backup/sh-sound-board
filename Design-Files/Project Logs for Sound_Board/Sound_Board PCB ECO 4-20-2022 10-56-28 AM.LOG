@@ -1,0 +1,10 @@
+Added Component: Designator=J1(M3960R-05P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XFCN-M3960R-05P_C492523.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "M3960R-05P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R- Pin=J1-1
+Added Pin To Net: NetName=R+ Pin=J1-2
+Added Pin To Net: NetName=L- Pin=J1-4
+Added Pin To Net: NetName=L+ Pin=J1-5
+Added Member To Class: ClassName=Connector_Sheet Member=Component J1 M3960R-05P
